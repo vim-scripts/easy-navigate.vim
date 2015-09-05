@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5242
+
+Commonly used (and community widely accepted) navigation keymaps for Vim
+
+Storing them in a separate plugin like this to keep .vimrc clean
+
+See https://github.com/NLKNguyen/easy-navigate.vim for keymaps
+
